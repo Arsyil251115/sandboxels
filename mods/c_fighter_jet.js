@@ -32,7 +32,7 @@ document.onkeydown = function(ki)/*keyboard_input*/ {
     }
     if (ki.keyCode == 90) {
         ammo = 300;
-        missile = 20;
+        missile = 300;
     }
 }
 document.onkeyup = function(i2)/*input 2*/ {
